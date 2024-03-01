@@ -1,2 +1,2 @@
-sayHi = str(input("Say Your Name "))
-print(sayHi)
+greeting = str(input("Say Your Name "))
+print(greeting)
